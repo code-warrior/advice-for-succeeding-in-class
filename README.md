@@ -2,6 +2,10 @@
 
 **Instructor**: Roy Vanegas
 
+## Read the Syllabus
+
+You are responsible for everything written in the syllabus, from due dates to material covered, and every word in between. Make sure you read and understand it fully before the second class.
+
 ## Attendance
 
 Attending lectures is crucial, for obvious reasons. Aside from emergencies, everyone should attend *every* class.

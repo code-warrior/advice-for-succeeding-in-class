@@ -13,6 +13,7 @@ Build and open Markdown file with Typora on a Mac:
 php index.php > README.md; open -a /Applications/Typora.app/ README.md
 
 */
+@include_once 'read-the-syllabus.md';
 @include_once 'attendance.md';
 @include_once 'lateness.md';
 @include_once 'actively-participate-in-your-education.md';

@@ -58,7 +58,7 @@ A ratio of 3:1 is a common formula used to define student success in a course, w
 
 7. **【 Make an Appointment to Meet With Me 】**
 
-   If, after carrying out steps 1 – 6, you do not understand something, make an appointment to see me, in person or via Skype, as I do not use email to communicate with students for help. When we meet, have questions prepared.
+   If, after carrying out steps 1 – 6, you do not understand something, make an appointment to see me, in person or via Skype, as I do not use email to communicate with students. When we meet, have questions prepared.
 
 8. **【 Ask questions in class 】**
 

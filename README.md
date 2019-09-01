@@ -44,19 +44,19 @@ A ratio of 3:1 is a common formula used to define student success in a course, w
 
    This is made easier if you use the Cornell Note-Taking system, which encourages you to write comments in the left margin. This step encourages you to re-word concepts discussed in class, further reinforcing your understanding of the material.
 
-4. **【 Study and re-write the code written in class and shared on GitHub 】**
+4. **【 Study and Re-Write the Code Written in Class and Shared on GitHub 】**
 
    By going over the code in class and re-writing the examples, you will be making the code your own, in turn, gathering a firm understanding of how code, browsers, and files work in concert to create web pages.
 
-5. **【 Search for terms you do not understand 】**
+5. **【 Search for Terms You Do Not Understand 】**
 
    You are bound to encounter many terms and ideas you do not understand. Highlight them, then search for them on the Internet. Read multiple definitions and take notes.
 
-6. **【 Ask questions in our Google Group 】**
+6. **【 Ask Questions in Our Google Group 】**
 
    If you would ask a question in class because it pertains to material that relates to all the students, then it is apt to be asked in the Google Group. Make sure to follow the protocol discussed on the first day of class for asking questions on the Google Group.
 
-7. **【 Make an appointment to meet with me 】**
+7. **【 Make an Appointment to Meet With Me 】**
 
    If, after carrying out steps 1 – 6, you do not understand something, make an appointment to see me, in person or via Skype, as I do not use email to communicate with students for help. When we meet, have questions prepared.
 

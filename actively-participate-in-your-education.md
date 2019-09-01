@@ -1,7 +1,7 @@
 
 ## Actively Participate in Your Education
 
-A ratio of 3:1 is a common formula used to define student success in a course, with three parts assigned to the student and one part to the professor ([read more here](https://www.college.columbia.edu/coursepoints)). Broken down hourly, it means, that, for every hour you spend in class, you *should* spend about three hours doing research, reading, doing homework, going over your notes, and re-writing your notes and seeking help online, for example. This is a general formula — Some students succeed with less time, others need more. Nonetheless, a successful use of your time might look like the following:
+A ratio of 3:1 is a common formula used to define student success in a course, with three parts assigned to the student and one part to the professor ([read more here](https://www.college.columbia.edu/coursepoints)). Broken down hourly, it means, that, for every hour you spend in class, you *should* spend about three hours doing research, reading, doing homework, going over your notes, re-writing your notes, and seeking help online, for example. This is a general formula — Some students succeed with less time, others need more. Nonetheless, a successful use of your time might look like the following:
 
 1. **【 Take Notes 】**
 

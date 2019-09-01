@@ -4,7 +4,7 @@
 
 ## Read the Syllabus
 
-You are responsible for everything written in the syllabus, from due dates to material covered, and every word in between. Make sure you read and understand it fully *before* the second class.
+You are responsible for everything written in the syllabus, from due dates to material covered, and every word in between. **Make sure you read and understand it _fully, before_ the second class.**
 
 ## Attendance
 
@@ -58,7 +58,7 @@ A ratio of 3:1 is a common formula used to define student success in a course, w
 
    If, after carrying out steps 1 – 6, you do not understand something, make an appointment to see me, in person or via Skype, as I do not use email to communicate with students. When we meet, have questions prepared.
 
-8. **【 Ask questions in class 】**
+8. **【 Ask Questions in Class 】**
 
    If you have a question, please, please ask it. You are causing yourself a great dis-service by not asking questions in class. The full experience of attending lectures includes the interaction between professors and students.
 

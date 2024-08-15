@@ -4,13 +4,13 @@
 <?php
 /*
 
-Build Markdown file:
+Build the Markdown file:
 
 php index.php > README.md
 
-Build and open Markdown file with Typora on a Mac:
+Or build and open the Markdown file with Chrome on a Mac:
 
-php index.php > README.md; open -a /Applications/Typora.app/ README.md
+php index.php > README.md; open -a /Applications/Google\ Chrome.app/ README.md
 
 */
 @include_once 'read-the-syllabus.md';
